@@ -2,7 +2,7 @@
 My personal Cybersecurity Learning Roadmap (Beginner to Intermediate) with recommended resources and tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dipikakumar101/cybersecurity-roadmap/main/banner.png" 
+  <img src="https://raw.githubusercontent.com/dipikakumar101/cybersecurity-roadmap/main/Banner.png" 
        alt="Cybersecurity Roadmap Banner" width="100%">
 </p>
 
