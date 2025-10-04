@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/1cad6b0e-c86a-4149-ab3c-455b51eb66e4" />
 # cybersecurity-roadmap
 My personal Cybersecurity Learning Roadmap (Beginner to Intermediate) with recommended resources and tools
 <p align="center">
