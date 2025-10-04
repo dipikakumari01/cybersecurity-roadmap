@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/1cad6b0e-c86a-4149-ab3c-455b51eb66e4" />
 # cybersecurity-roadmap
 My personal Cybersecurity Learning Roadmap (Beginner to Intermediate) with recommended resources and tools
 <p align="center">
@@ -57,5 +56,4 @@ B.Tech CSE (Design) | Cybersecurity Enthusiast | Python Developer | Graphic Desi
 
 ---
 
-⭐ *If this roadmap helps you, consider starring the repo!*
-
+⭐ *If this roadmap helps you, consider starring the repo!*<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/7f4c6754-4fc0-4012-8578-239d3fc56d6b" />
