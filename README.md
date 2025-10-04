@@ -56,4 +56,4 @@ B.Tech CSE (Design) | Cybersecurity Enthusiast | Python Developer | Graphic Desi
 
 ---
 
-⭐ *If this roadmap helps you, consider starring the repo!*<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/7f4c6754-4fc0-4012-8578-239d3fc56d6b" />
+⭐ *If this roadmap helps you, consider starring the repo!*
