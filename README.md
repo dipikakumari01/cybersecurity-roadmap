@@ -1,9 +1,9 @@
-# cybersecurity-roadmap
+# Cybersecurity Roadmap
 My personal Cybersecurity Learning Roadmap (Beginner to Intermediate) with recommended resources and tools
 
+<!-- Banner Image Placeholder -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dipikakumar101/cybersecurity-roadmap/main/Banner.png" 
-       alt="Cybersecurity Roadmap Banner" width="100%">
+  <img src="Banner.png" alt="Cybersecurity Roadmap Banner" width="100%">
 </p>
 
 # 🛡️ Cybersecurity Learning Roadmap (Beginner → Intermediate)
@@ -35,8 +35,8 @@ This roadmap covers:
 
 ---
 
-## 🧰 Resources Inside
-This roadmap includes curated **free learning platforms, YouTube channels, and practice labs** like:
+## 🧰 Resources
+Curated **free learning platforms, YouTube channels, and practice labs**:
 - [TryHackMe](https://tryhackme.com/)  
 - [HackTheBox](https://academy.hackthebox.com/)  
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)  
@@ -56,5 +56,4 @@ B.Tech CSE (Design) | Cybersecurity Enthusiast | Python Developer | Graphic Desi
 
 🔗 [LinkedIn](https://www.linkedin.com/in/dipika-164211323/) | [GitHub](https://github.com/dipikakumar101)  
 
----
 ⭐ *If this roadmap helps you, consider starring the repo!*
