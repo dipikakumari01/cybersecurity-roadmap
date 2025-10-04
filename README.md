@@ -1,7 +1,9 @@
 # cybersecurity-roadmap
 My personal Cybersecurity Learning Roadmap (Beginner to Intermediate) with recommended resources and tools
+
 <p align="center">
-  <img src="banner.png" alt="Cybersecurity Roadmap Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/dipikakumar101/cybersecurity-roadmap/main/banner.png" 
+       alt="Cybersecurity Roadmap Banner" width="100%">
 </p>
 
 # 🛡️ Cybersecurity Learning Roadmap (Beginner → Intermediate)
@@ -55,5 +57,4 @@ B.Tech CSE (Design) | Cybersecurity Enthusiast | Python Developer | Graphic Desi
 🔗 [LinkedIn](https://www.linkedin.com/in/dipika-164211323/) | [GitHub](https://github.com/dipikakumar101)  
 
 ---
-
 ⭐ *If this roadmap helps you, consider starring the repo!*
